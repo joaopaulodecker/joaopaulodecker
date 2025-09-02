@@ -1,13 +1,12 @@
-
-
 <h1 align="center">
-  Olá! 👋 Meu nome é João Paulo
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Prazer, sou João Paulo! 👋
 </h1>
 
-<div id="badges" align="center">
+<div align="center">
+  <sub>Desenvolvedor Júnior | Estudante de Sistemas de Informação na UFSC</sub>
+  <br/><br/>
   <a href="https://www.linkedin.com/in/joaopaulodecker">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:joaopaulodecker@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
@@ -16,29 +15,32 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joaopaulodecker&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopaulodecker&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
+---
+
+### :rocket: Minha Jornada
+
+Sou um desenvolvedor fascinado em construir aplicações que resolvem problemas do dia a dia. Como estudante na UFSC, busco conectar o conhecimento acadêmico com projetos práticos, sempre com foco em aprender e aplicar novas tecnologias.
+
+- 👨‍💻 Atualmente, mergulhado no universo do desenvolvimento Front-end com **React, Vite e JavaScript**.
+- 📚 Sempre aprendendo algo novo.
+- 🤝 Aberto a colaborações e novas ideias. Se você tem um projeto em mente, vamos conversar!
 
 ---
 
-### :man_technologist: Sobre Mim
+### 💻 Meu Kit de Desenvolvimento
 
-Sou um desenvolvedor júnior e estudante de Sistemas de Informação na UFSC, fascinado por tecnologia e pela criação de projetos que resolvem problemas reais. Minha jornada no mundo da programação é movida pela curiosidade e pelo desejo constante de aprender.
-- 💬 Fique à vontade para entrar em contato para trocarmos ideias sobre tecnologia ou para potenciais colaborações!
-
----
-
-### 💻 Habilidades e Ferramentas:
-
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,vite,js,html,css,git,github,vscode,figma" />
   </a>
 </p>
 
 ---
-<p>
-  Acredito que o código é uma forma poderosa de expressão e solução. Meus projetos refletem minha jornada de aprendizado e minha paixão por construir coisas novas.
+<p align="center">
+  Código, para mim, é a ferramenta ideal para criar e inovar.
+  <br/>
+  Meus projetos refletem minha jornada de aprendizado e minha paixão por construir.
 </p>
